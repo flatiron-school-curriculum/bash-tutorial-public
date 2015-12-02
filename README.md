@@ -238,3 +238,5 @@ This would run the ps command with the a,u and x flags, and send the output of t
 - [Environment Variables](http://cbednarski.com/articles/understanding-environment-variables-and-the-unix-path/)
 - [Builtin Shell Commands](https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html) *Very useful*
 - [15 Useful Bash Commands](http://www.thegeekstuff.com/2010/08/bash-shell-builtin-commands/)
+
+<a href='https://learn.co/lessons/bash-tutorial-public' data-visibility='hidden'>View this lesson on Learn.co</a>
